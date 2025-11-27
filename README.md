@@ -2,8 +2,8 @@
 # ..:: CiefpEPGshare ::..
 
 
-![Astra-SM Scan](https://github.com/ciefp/CiefpSatelliteAnalyzer/blob/main/epgshare1.jpg)
-![Bouquet](https://github.com/ciefp/CiefpSatelliteAnalyzer/blob/main/screenshot4.jpg)
+![Astra-SM Scan](https://github.com/ciefp/CiefpEPGShare/blob/main/epgshare1.jpg)
+![Bouquet](https://github.com/ciefp/CiefpEPGShare/blob/main/sepgshare2.jpg)
 
 - **Enigma2 plugin for downloading and displaying EPG (Electronic Program Guide) data from the website epgshare01.online**
 Allows users to select XML files with EPG data, display channels and their programs, and display picons (channel icons).
