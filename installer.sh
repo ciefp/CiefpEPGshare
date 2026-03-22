@@ -98,7 +98,7 @@ sync
 echo ""
 echo ""
 echo "#########################################################"
-echo "#          CiefpEPGshare INSTALLED SUCCESSFULLY          #"
+echo "#         CiefpEPGshare INSTALLED SUCCESSFULLY          #"
 echo "#                  developed by ciefp                   #"
 echo "#                  .::CiefpSettings::.                  #"
 echo "#               https://github.com/ciefp                #"
